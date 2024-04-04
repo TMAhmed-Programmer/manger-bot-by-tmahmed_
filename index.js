@@ -1,4 +1,4 @@
-
+//by hira studio
 const express = require('express')
 const app = express()
 const port = 3000
@@ -11,7 +11,12 @@ app.get('/', (req, res) => {
 
   
  
+//by hira studio
 
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
 
 
 
@@ -58,7 +63,10 @@ client.on('ready', async () => {
 ////////////////////////////////
 
 
-   
+   //by hira studio
+//by hira studio
+//by hira studio
+
 
 
 
@@ -301,7 +309,13 @@ const dba = `${config.prefix}` && db3
     }
 });
 
- 
+ //by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+
 
 
 
@@ -342,7 +356,6 @@ client.on('messageCreate',async message => {
                 message.reply('https://media.discordapp.net/attachments/1221200437957624019/1221419938351419472/20240324_112545.png?ex=661282f6&is=66000df6&hm=e8f015b170a989c5c46290aeb839f6ef665911f33dbf97c016e9d888fcb10a9e&=&format=webp&quality=lossless&width=1224&height=161')
         }
 })
-
 
 
 // خط تلقائي فروم محدد
@@ -659,8 +672,122 @@ client.on('messageCreate', async message => {
 });
 
 //sugg pre
+////////////////////////////////////////////
 
-
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
+//by hira studio
 
 
 // ========================================================== \\
