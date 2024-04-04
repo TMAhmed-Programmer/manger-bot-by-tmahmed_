@@ -792,4 +792,4 @@ client.on('messageCreate', async message => {
 
 // ========================================================== \\
 
-client.login("MTIyMTYwMzcwMDQ2MDYxNzgxOQ.G6MOeb.AnY9QsxIBxf-c8w-7wLf3g1Fn81aAdVx87ti4Q")
+client.login("your bot token")
