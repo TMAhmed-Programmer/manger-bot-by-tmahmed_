@@ -138,6 +138,30 @@ function containsLink(text) {
 }
 
 //anti links
+const serverRoleIds = {
+    "1207755498628059216": "1223545672796737658",
+    "1220535107908145192": "1220778322330390630",
+    // يمكنك إضافة المزيد من الأيديات حسب الحاجة
+};
+
+client.on('guildMemberAdd', async member => {
+    // التحقق مما إذا كان السيرفر مدرجًا في القاموس الخاص بك
+    if (serverRoleIds[member.guild.id]) {
+        // احصل على الرتبة المراد إعطاؤها للعضو
+        const roleId = serverRoleIds[member.guild.id];
+        const role = member.guild.roles.cache.get(roleId);
+        // التحقق من وجود الرتبة
+        if (role) {
+            // إعطاء العضو الرتبة
+            await member.roles.add(role);
+            console.log(`Gave ${member.user.tag} the role ${role.name} in ${member.guild.name}`);
+        } else {
+            console.log(`Role with id ${roleId} not found in ${member.guild.name}`);
+        }
+    }
+});
+
+//auto role
 
 const fs = require('fs');
 
